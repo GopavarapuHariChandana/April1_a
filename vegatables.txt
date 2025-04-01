@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Tamota
 Potato
 Cauliflower
 Brinjal
+||||||| 7c811eb
+=======
+Tamota
+Potato
+Cauliflower
+>>>>>>> feature1
